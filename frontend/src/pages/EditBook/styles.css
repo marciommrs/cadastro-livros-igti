@@ -27,7 +27,7 @@
 }
 
 .register-container .content {
-  width: 50%;  
+  width: 90%;  
   padding: 30px;
   background: #f8f8ff;
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
@@ -48,6 +48,9 @@
 
 .register-container .content form input {
   margin-top: 8px;
+}
+.register-container .content form label {
+  width: 20%;
 }
 
 .register-container .content form .input-group {
