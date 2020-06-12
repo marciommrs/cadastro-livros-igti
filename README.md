@@ -35,8 +35,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Lista de Contatos" src=".github/contatos.png" width="100%">
-    <img alt="Edição de Contato" src=".github/edit.png" width="100%">
+    <img alt="Books" src=".github/books.png" width="100%">
+    <img alt="Edit Book" src=".github/edit.png" width="100%">
 </h1>
 
 
