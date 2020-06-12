@@ -34,7 +34,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a id="resultado"></a>
 ## :computer: Resultado Web
 
-Estilização pendente...
+<h1 align="center">
+    <img alt="Lista de Contatos" src=".github/contatos.png" width="100%">
+    <img alt="Edição de Contato" src=".github/edit.png" width="100%">
+</h1>
+
 
 <a id="como-usar"></a>
 ## :pencil: Como usar
